@@ -1,0 +1,60 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none; /* oculta los puntos */
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #474343;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111;
+}
+
+.images {
+  padding-bottom: 20px;
+}
+
+h3 {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+p {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.mapa {
+  margin-top: 30px;
+}
+
+input {
+  text-align: center;
+}
+
+textarea {
+  text-align: center;
+}
